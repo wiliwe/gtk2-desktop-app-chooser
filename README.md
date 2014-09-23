@@ -8,7 +8,7 @@ GTK+ 2.0 App - Desktop App Chooser
 Purpose
 -------
 As a tool written in GTK+ 2.0 library to let a user browse installed X desktop applications and choose an application to retrieve its desktop entry contents for further usage:  
-######_GTK+ 2.0 App - Desktop App Chooser_######
+######_GTK+ 2.0 App - Desktop App Chooser document_######
 <http://www.slideshare.net/wiliwe/>  
 
 Folders
