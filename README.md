@@ -21,8 +21,7 @@ Folders
   `convrt_po.sh` - to convert translated .po file into .mo file and copy the .mo file into the sub-directories under
 Src/local/.
 ####_Src/doxygen_####
-  Contains Doxygen configuration files for generating document with or without graphs.  
-  Run tool `doxygen` with one of configuration files in this directory.  
+  Contains Doxygen configuration files for generating document with or without graphs. Run tool `doxygen` with one of configuration files in this directory.  
 
   There have two generated HTML document(with graph) archives compressed in tarball and 7zip,  
   the contents of them are the same.  
