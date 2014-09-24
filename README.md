@@ -22,8 +22,10 @@ Folders
 Src/local/.
 ####_Src/doxygen_####
   Contains Doxygen configuration files for generating document with or without graphs.  
+  Run tool `doxygen` with one of configuration files in this directory.  
+
   There have two generated HTML document(with graph) archives compressed in tarball and 7zip,  
-  the contents of them are the same.. 
+  the contents of them are the same.  
 ####_Src/po_####
   Contains GNU gettext PO, POT and MO files.
 ####_Src/local_####
